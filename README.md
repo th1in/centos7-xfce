@@ -3,6 +3,7 @@
 CentOS7 respin with XFCE dektop as default environment.
 
 ## Packages
+* kernel 3.10
 * xfce 4.12
 * libreoffice 6.2
 * cheese
